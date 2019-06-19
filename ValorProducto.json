@@ -1,0 +1,22 @@
+[
+       {
+            "value": "tv",
+            "moneda": "3990.77",
+            "code": "ARS"
+        },
+        {
+            "value": "pc",
+            "moneda": "350",
+            "code": "USD"
+        },
+        {
+            "value": "lap",
+            "moneda": "233",
+            "code": "BSS"
+        },
+        {
+            "value": "pho",
+            "moneda": "230",
+            "code": "COP"
+        }
+]
