@@ -1,0 +1,18 @@
+[      
+    {
+            "id": "Televisión",
+            "value": "tv"
+        },
+        {
+            "id": "Laptop",
+            "value": "lap"
+        },
+        {
+            "id": "Computadora",
+            "value": "pc"
+        },
+        {
+            "id": "Teléfono",
+            "value": "pho"
+        }
+]

@@ -1,0 +1,24 @@
+
+   [
+        {
+            "valor": "1",
+            "id": "Dolar"
+        },
+        {
+            "valor": "0.88",
+            "id": "Euro"
+        },
+        {
+            "valor": "3085.05",
+            "id": "PesoColombia"
+        },
+        {
+            "valor": "3278.91",
+            "id": "BolivarSoberano"
+        },
+        {
+            "valor": "40.77",
+            "id": "PesoArgentino"
+        }
+    ]
+    
